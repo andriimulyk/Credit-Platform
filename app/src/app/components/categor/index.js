@@ -18,7 +18,6 @@ function Categor() {
         { name: "Бізнес-кредити", src: "/credit4.png", urlValue:"credit4" },
         { name: "Овердрафт", src: "/credit5.png" , urlValue:"credit5" },
         { name: "Кредити на розвиток стартапів", src:"/credit6.png" , urlValue:"credit6" },
-        // { name: "ПК", src: "/pc.jpg" , urlValue:"pc" },
         { name: "Кредитні картки", src: "/credit7.png" , urlValue:"credit7" },
         { name: "Рефінансування кредитів", src: "/credit8.png",urlValue:"credit8" },
     ];
